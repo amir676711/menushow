@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+fastapi_jwt
+sqlalchemy
+jose
+pymysql
+cryptography
+pytz
+virtualenv
